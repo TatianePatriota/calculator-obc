@@ -86,7 +86,7 @@ input {
   border-radius: 0 0.5rem 0.5rem 0;
 }
 
-#copyToClipboard {
+#resultText {
   background-color: transparent;
   border: solid var(--border-color);
   border-width: 2px;
